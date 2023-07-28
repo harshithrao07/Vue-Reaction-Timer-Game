@@ -1,4 +1,8 @@
 # reaction-timer
+LIVE SITE URL:- https://bucolic-kringle-14f231.netlify.app/
+
+## Screenshot
+![](public/images/screenshot.png)
 
 ## Project setup
 ```
